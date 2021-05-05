@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Oswald&display=swap');
 
+
 *    {
     margin: 0;
     padding: 0;
@@ -255,6 +256,7 @@ hr {
 
 footer {
        height: 150px;
+       
 }
 
 .social-networks {
@@ -267,10 +269,9 @@ footer {
 
 }
 
-social-networks i {
+.social-networks i {
        font-size: 160px;
        margin: 1%;
        padding: 5%;
        color: #3a3a3a;
-
 }
